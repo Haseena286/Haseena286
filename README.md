@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/banner.png" alt="Welcome Banner" width="100%">
+</p>
 # Hi there 👋, I'm M. Haseena
 <h1 align="center">💜 Welcome to My GitHub Universe 💜</h1>
 
