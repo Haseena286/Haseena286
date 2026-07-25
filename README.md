@@ -28,7 +28,6 @@ I'm a software developer who enjoys building scalable web applications and conti
 * 🤔 I'm looking for help with **Advanced .NET development, Clean Architecture, and DevOps**
 * 💬 Ask me about **C#, ASP.NET Core, React.js, JavaScript, SQL Server, MongoDB, HTML, CSS, and Web Development**
 * 📫 How to reach me: **Add your email here (e.g., [haseenameeran786@gmail.com](mailto:haseenameeran786@gmail.com)** or connect with me on **LinkedIn(https://www.linkedin.com/in/m-haseena-8385a230b?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
-* 😄 Pronouns: **She/Her** *(or remove this line if you prefer not to include it)*
 * ⚡ Fun fact: **I enjoy turning ideas into real-world web applications and believe there's always something new to learn in tech!**
 
 🎯 **Goal**
