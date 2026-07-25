@@ -1,29 +1,34 @@
 # Hi there 👋, I'm M. Haseena
+<h1 align="center">💜 Welcome to My GitHub Universe 💜</h1>
 
-🚀 Passionate Full Stack .NET Developer and lifelong learner.
+<p align="center">
+  <b>Exploring Full Stack Development • Building Real-World Applications • Never Stop Learning</b>
+</p>
 
 I'm a software developer who enjoys building scalable web applications and continuously improving my technical skills. I have hands-on experience with C#, ASP.NET Core, ASP.NET MVC, React.js, JavaScript, HTML, CSS, SQL Server
 
 # 💫 About Me:
 🔭 I'm currently working on Full Stack .NET projects<br><br>🌱 I'm currently learning ASP.NET Core, React.js, Node.js, System Design, and Cloud Deployment<br><br>👯 I'm looking to collaborate on Open Source and Full Stack Web Development projects<br><br>🤔 I'm looking for help with Advanced .NET development, Clean Architecture, and DevOps<br><br>💬 Ask me about C#, ASP.NET Core, React.js, JavaScript, SQL Server, MongoDB, HTML, CSS, and Web Development<br><br>📫 How to reach me: Add your email here (e.g., haseenameeran786@gmail.com or connect with me on LinkedIn(https://www.linkedin.com/in/m-haseena-8385a230b?utm_source=share_via&utm_content=profile&utm_medium=member_android)<br><br>⚡ Fun fact: I enjoy turning ideas into real-world web applications and believe there's always something new to learn in tech!
 
-💻 What you'll find here:
 
-Full Stack .NET Projects
-React Applications
-REST API Development
-SQL & Database Projects
-Authentication & Authorization
-Security Audit Log Application
-Learning Projects and Coding Practice
+💻 **What you'll find here:**
 
-🌱 Currently Learning
+* Full Stack .NET Projects
+* React Applications
+* REST API Development
+* SQL & Database Projects
+* Authentication & Authorization
+* Security Audit Log Application
+* Learning Projects and Coding Practice
 
-Advanced ASP.NET Core
-System Design
-Clean Architecture
-Cloud Deployment
-Full Stack Development Best Practices
+🌱 **Currently Learning**
+
+* Advanced ASP.NET Core
+* System Design
+* Clean Architecture
+* Cloud Deployment
+* Full Stack Development Best Practices
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-haseena-8385a230b?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Hasee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseenameeran786@gmail.com) 
